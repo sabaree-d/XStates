@@ -73,7 +73,7 @@ function App() {
 
   return (
     <div className="container">
-      <h1>Location Selector</h1>
+      <h1>Select Location</h1>
       <div className="dropdown-container">
         <select value={selectedCountry} onChange={handleCountryChange}>
           <option value="">Select Country</option>
