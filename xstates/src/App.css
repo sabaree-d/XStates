@@ -1,0 +1,26 @@
+/* App.css */
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.dropdown-container {
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: row;
+}
+
+select {
+  flex: 1;
+  padding: 10px;
+  margin-right: 10px;
+}
+
+h1 {
+  text-align: center;
+}
+
+.bold {
+  font-weight: bold;
+}
